@@ -10,6 +10,10 @@
   * [Auto crease](#auto-crease)
     - [Auto increase](#auto-increase)
     - [Auto decrease](#auto-decrease)
+  * [Tabs](#tabs)
+    - [move](#move-1)
+      + [move to prev page](#move-to-prev-page)
+      + [move to next page](#move-to-next-page)
 
 <!-- /TOC -->
 # Vim Keymap
@@ -44,3 +48,15 @@ change word lower caps
 ### Auto decrease
 `<C-x>`
 
+## Tabs
+### move
+#### move to prev page
+```
+:tabn
+gt
+```
+#### move to next page
+```
+:tabp
+gT
+```
