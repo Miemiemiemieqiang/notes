@@ -1,4 +1,17 @@
+<!-- TOC GitLab -->
 
++ [Vim Keymap](#vim-keymap)
+  * [Move](#move)
+  * [Copy](#copy)
+    - [Copy to clipboard](#copy-to-clipboard)
+  * [Caps](#caps)
+    - [Toggle caps](#toggle-caps)
+    - [Change caps](#change-caps)
+  * [Auto crease](#auto-crease)
+    - [Auto increase](#auto-increase)
+    - [Auto decrease](#auto-decrease)
+
+<!-- /TOC -->
 # Vim Keymap
 ## Move
 `<C-f>` forward page
